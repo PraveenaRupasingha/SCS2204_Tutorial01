@@ -1,5 +1,5 @@
 object SCS2204_T1 {
-  def main(args: Array[String])  {
+  def main(args: Array[String]) = {
     println(calcArea(5))
     println(conv(35))
     println(calVolume(5))
